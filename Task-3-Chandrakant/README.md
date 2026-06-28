@@ -1,4 +1,4 @@
-# 🎮 AI Game Recommendation System
+#  AI Game Recommendation System
 
 This project was developed as part of my AI Internship at DecodeLabs.
 
