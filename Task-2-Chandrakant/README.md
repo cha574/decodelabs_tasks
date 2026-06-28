@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification using KNN
+# Iris Flower Classification using KNN
 
 This project is a part of my AI Internship at DecodeLabs.
 
